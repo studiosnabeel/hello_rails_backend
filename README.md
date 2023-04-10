@@ -22,7 +22,9 @@
 # 📖 Hello World! <a name="about-project"></a>
 
 **Hello World!**
-Now that you're familiar with Rails and React, it's time to put them together in a new kind of 'Hello World!' app. This exercise is going to have you create a React front-end with a Rails back-end and connect them to display a random message.
+Now that you're familiar with Rails and React, it's time to put them together in a new kind of 'Hello World!' app. This exercise is going to have you create a React front-end with a Rails back-end and connect them to display a random message. 
+
+[Link to Hello react Frontend](https://github.com/studiosnabeel/hello_rails_frontend)
 
 ## 🛠 Built With <a name="built-with"></a>
 
